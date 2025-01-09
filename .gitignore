@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Other generated files
+*.log
+*.sqlite3
+
+# IDE-specific files
+.vscode/
+.idea/
